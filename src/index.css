@@ -1,0 +1,9 @@
+/* Import styles first */
+@import './styles/animations.css';
+@import './styles/cards.css';
+@import './styles/transitions.css';
+
+/* Then Tailwind directives */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
